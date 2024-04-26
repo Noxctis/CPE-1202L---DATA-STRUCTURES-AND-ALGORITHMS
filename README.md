@@ -14,35 +14,36 @@ By the end of the semester, the students should be able to:
 
 **Fundamental of Abstract Data Type (ADTs)**
 
-Linear ADTs
+-- Linear ADTs
 
-Stack
+-- Stack
 
-Queues
+-- Queues
 
-Deques
+-- Deques
 
-Recursion
+-- Recursion
 
-Search and Sort Algorithms
+-- Search and Sort Algorithms
 
 **Non-Linear ADTsLists**
-General Trees
 
-Binary Trees
+-- General Trees
 
-Binary Search Tree
+-- Binary Trees
 
-AVL Search Tree
+-- Binary Search Tree
 
-Splay Tree
+-- AVL Search Tree
 
-Heap Tree
+-- Splay Tree
 
-B-Trees
+-- Heap Tree
 
-Lexical Search Tree (Tries)
+-- B-Trees
 
-Hashing
+-- Lexical Search Tree (Tries)
 
-Graphs
+-- Hashing
+
+-- Graphs
