@@ -13,21 +13,36 @@ By the end of the semester, the students should be able to:
 **Review of Programming Basics**
 
 **Fundamental of Abstract Data Type (ADTs)**
+
 Linear ADTs
+
 Stack
+
 Queues
+
 Deques
+
 Recursion
+
 Search and Sort Algorithms
 
 **Non-Linear ADTsLists**
 General Trees
+
 Binary Trees
+
 Binary Search Tree
+
 AVL Search Tree
+
 Splay Tree
+
 Heap Tree
+
 B-Trees
+
 Lexical Search Tree (Tries)
+
 Hashing
+
 Graphs
