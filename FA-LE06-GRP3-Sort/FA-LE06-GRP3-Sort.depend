@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1708903092 source:c:\users\chrys sean sevilla\documents\codeblocks\fa-le06-grp3-sort\exchangesort.c
+	"swap.h"
+	<stdio.h>
+	<stdlib.h>
+
+1708902685 c:\users\chrys sean sevilla\documents\codeblocks\fa-le06-grp3-sort\swap.h
+
+1708903060 source:c:\users\chrys sean sevilla\documents\codeblocks\fa-le06-grp3-sort\extras.c
+	"swap.h"
+	<stdio.h>
+	<stdlib.h>
+
+1708903104 source:c:\users\chrys sean sevilla\documents\codeblocks\fa-le06-grp3-sort\insertionsort.c
+	"swap.h"
+	<stdio.h>
+	<stdlib.h>
+
+1708908833 source:c:\users\chrys sean sevilla\documents\codeblocks\fa-le06-grp3-sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<conio.h>
+	<ctype.h>
+	"swap.h"
+
+1708903127 source:c:\users\chrys sean sevilla\documents\codeblocks\fa-le06-grp3-sort\selectionsort.c
+	"swap.h"
+	<stdio.h>
+	<stdlib.h>
+
