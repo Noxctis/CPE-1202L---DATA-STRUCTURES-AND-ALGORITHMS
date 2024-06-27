@@ -1,0 +1,95 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+// Structure for a node
+struct Node {
+    int data;
+    struct Node* left;
+    struct Node* right;
+};
+
+struct Node* createNode(int value) {
+    struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
+    newNode->data = value;
+    newNode->left = NULL;
+    newNode->right = NULL;
+    return newNode;
+}
+
+void breadthFirstTraversal(struct Node* root) {
+    if (root == NULL)
+        return;
+
+    struct Node* queue[10]; 
+    int front = 0, rear = 0;
+    queue[rear++] = root;
+
+    while (front < rear) {
+        struct Node* current = queue[front++];
+        printf("%d ", current->data);
+        if (current->left != NULL)
+            queue[rear++] = current->left;
+        if (current->right != NULL)
+            queue[rear++] = current->right;
+    }
+}
+
+void addNode(struct Node** root, int value) {
+    struct Node* newNode = createNode(value);
+    if (*root == NULL) {
+        *root = newNode;
+        printf("SUCCESS: node added\n");
+        return;
+    }
+
+    struct Node* queue[10]; 
+    int front = 0, rear = -1;
+
+    queue[++rear] = *root;
+    while (front <= rear) {
+        struct Node* temp = queue[front++];
+        if (temp->left == NULL) {
+            temp->left = newNode;
+            printf("SUCCESS: node added\n");
+            return;
+        } else {
+            queue[++rear] = temp->left;
+        }
+        if (temp->right == NULL) {
+            temp->right = newNode;
+            printf("SUCCESS: node added\n");
+            return;
+        } else {
+            queue[++rear] = temp->right;
+        }
+    }
+}
+
+int main() {
+    struct Node* root = NULL;
+    int choice, value;
+
+                printf("\n=== ADD NEW NODE ===\n");
+                printf("Insert value to add: ");
+                value = 53;
+                addNode(&root, value);
+                value = 95;
+                addNode(&root, value);
+                value = 33;
+                addNode(&root, value);
+                value = 19;
+                addNode(&root, value);
+                value = 75;
+                addNode(&root, value);
+                value = 28;
+                addNode(&root, value);
+                value = 88;
+                addNode(&root, value);
+                value = 14;
+                addNode(&root, value);
+                value = 66;
+                addNode(&root, value);
+                breadthFirstTraversal(root);
+                
+    return 0;
+}
