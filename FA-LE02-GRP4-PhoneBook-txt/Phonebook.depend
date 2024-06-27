@@ -1,0 +1,197 @@
+# depslib dependency file v1.0
+1706454614 source:c:\users\chrys sean sevilla\documents\codeblocks\testmulticalc\phonebook\main.c
+	<stdio.h>
+	"phonebook.h"
+
+1706454150 c:\users\chrys sean sevilla\documents\codeblocks\testmulticalc\phonebook\phonebook.h
+
+1706453900 source:c:\users\chrys sean sevilla\documents\codeblocks\testmulticalc\phonebook\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+	"common.h"
+
+1706454004 source:c:\users\chrys sean sevilla\documents\codeblocks\testmulticalc\phonebook\common.c
+	"common.h"
+
+1706454000 c:\users\chrys sean sevilla\documents\codeblocks\testmulticalc\phonebook\common.h
+	<stdio.h>
+	<stdlib.h>
+
+1706456398 source:z:\phonebook\common.c
+	"common.h"
+
+1706456398 z:\phonebook\common.h
+	<stdio.h>
+	<stdlib.h>
+
+1706456398 source:z:\phonebook\main.c
+	<stdio.h>
+	"phonebook.h"
+
+1706510260 z:\phonebook\phonebook.h
+
+1706511526 source:z:\phonebook\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+	"common.h"
+
+1706511965 source:z:\1\phonebook\common.c
+	"common.h"
+
+1706511965 z:\1\phonebook\common.h
+	<stdio.h>
+	<stdlib.h>
+
+1706516104 source:z:\1\phonebook\main.c
+	<stdio.h>
+	"phonebook.h"
+
+1706516621 z:\1\phonebook\phonebook.h
+
+1706515997 source:z:\1\phonebook\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"phonebook.h"
+	"common.h"
+
+1706516617 source:z:\1\phonebook\browse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"phonebook.h"
+	"common.h"
+
+1706515855 source:z:\1\phonebook\append.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"phonebook.h"
+	"common.h"
+
+1706515875 source:z:\1\phonebook\change.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"phonebook.h"
+	"common.h"
+
+1706515979 source:z:\1\phonebook\delete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"phonebook.h"
+	"common.h"
+
+1706626836 source:c:\users\chrys sean sevilla\documents\codeblocks\testmulticalc\actualpassed\phonebook\append.c
+	<stdio.h>
+	<stdlib.h>
+	"phonebook.h"
+	"common.h"
+
+1706634650 c:\users\chrys sean sevilla\documents\codeblocks\testmulticalc\actualpassed\phonebook\phonebook.h
+
+1706607083 c:\users\chrys sean sevilla\documents\codeblocks\testmulticalc\actualpassed\phonebook\common.h
+	<stdio.h>
+	<stdlib.h>
+
+1706635019 source:c:\users\chrys sean sevilla\documents\codeblocks\testmulticalc\actualpassed\phonebook\browse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+	"common.h"
+
+1706635067 source:c:\users\chrys sean sevilla\documents\codeblocks\testmulticalc\actualpassed\phonebook\change.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+	"common.h"
+
+1706511965 source:c:\users\chrys sean sevilla\documents\codeblocks\testmulticalc\actualpassed\phonebook\common.c
+	"common.h"
+
+1706635263 source:c:\users\chrys sean sevilla\documents\codeblocks\testmulticalc\actualpassed\phonebook\delete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"phonebook.h"
+	"common.h"
+
+1706626772 source:c:\users\chrys sean sevilla\documents\codeblocks\testmulticalc\actualpassed\phonebook\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	"phonebook.h"
+	"common.h"
+
+1706612269 source:c:\users\chrys sean sevilla\documents\codeblocks\testmulticalc\actualpassed\phonebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	"phonebook.h"
+
+1706627814 c:\users\chrys sean sevilla\documents\codeblocks\testmulticalc\actualpassed\phonebook\change.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+	"common.h"
+
+1706651449 source:z:\new folder\phonebook\append.c
+	<stdio.h>
+	<stdlib.h>
+	"phonebook.h"
+	"common.h"
+
+1706680118 z:\new folder\phonebook\phonebook.h
+
+1706651450 z:\new folder\phonebook\common.h
+	<stdio.h>
+	<stdlib.h>
+
+1706651449 source:z:\new folder\phonebook\browse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+	"common.h"
+
+1706651449 source:z:\new folder\phonebook\change.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+	"common.h"
+
+1706651449 source:z:\new folder\phonebook\common.c
+	"common.h"
+
+1706651449 source:z:\new folder\phonebook\delete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"phonebook.h"
+	"common.h"
+
+1706651449 source:z:\new folder\phonebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	"phonebook.h"
+
+1706651450 source:z:\new folder\phonebook\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	"phonebook.h"
+	"common.h"
+
