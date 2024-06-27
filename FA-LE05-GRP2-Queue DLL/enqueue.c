@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "queueDLL.h"
+#include "queueSLL.h"
 
 void enqueue(LinkedList* list) {
     Node* newNode = (Node*)malloc(sizeof(Node));

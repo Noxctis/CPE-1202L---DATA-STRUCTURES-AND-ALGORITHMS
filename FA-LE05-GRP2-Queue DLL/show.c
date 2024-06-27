@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "queueDLL.h"
+#include "queueSLL.h"
 
 void show(LinkedList* list) {
     if (list->top == NULL) {

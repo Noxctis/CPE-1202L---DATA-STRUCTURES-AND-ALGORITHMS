@@ -1,5 +1,5 @@
-#ifndef QUEUEDLL_H
-#define QUEUEDLL_H
+#ifndef QUEUESLL_H
+#define QUEUESLL_H
 
 #define MAX_NAME_LENGTH 25
 #define MAX_NUMBER_LENGTH 15
@@ -30,9 +30,5 @@ void enqueue(LinkedList* list);
 void dequeue(LinkedList* list);
 void show(LinkedList* list);
 
-#endif // QUEUEDLL_H
+#endif // QUEUESLL_H
 
-/*
-Jeff Thomas Dotillos - Dequeue && Main
-Chrys  Sean Sevilla - Enqueue && Show && queueDLL.h
-*/
