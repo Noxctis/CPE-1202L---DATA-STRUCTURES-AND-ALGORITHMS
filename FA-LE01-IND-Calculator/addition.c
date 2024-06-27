@@ -2,7 +2,7 @@
 
 /*
 ============================================================================
- FUNCTION    : add
+ FUNCTION    : add 
  DESCRIPTION : Calculates the two addition of two numbers
  ARGUMENTS   : none / void
  RETURNS     : int - added numbers
