@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1706688544 source:z:\singlelinkedlist\phonebooklinkedlist\append.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+	"common.h"
+
+1706688497 z:\singlelinkedlist\phonebooklinkedlist\phonebook.h
+
+1706651450 z:\singlelinkedlist\phonebooklinkedlist\common.h
+	<stdio.h>
+	<stdlib.h>
+
+1706688346 source:z:\singlelinkedlist\phonebooklinkedlist\browse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+	"common.h"
+
+1706680625 source:z:\singlelinkedlist\phonebooklinkedlist\change.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+	"common.h"
+
+1706651449 source:z:\singlelinkedlist\phonebooklinkedlist\common.c
+	"common.h"
+
+1706651449 source:z:\singlelinkedlist\phonebooklinkedlist\delete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"phonebook.h"
+	"common.h"
+
+1706651449 source:z:\singlelinkedlist\phonebooklinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"phonebook.h"
+
+1706651450 source:z:\singlelinkedlist\phonebooklinkedlist\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	"phonebook.h"
+	"common.h"
+
+1707042401 source:c:\users\chrys sean sevilla\documents\codeblocks\phonebooklinkedlist\change.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+	"common.h"
+
+1707043261 c:\users\chrys sean sevilla\documents\codeblocks\phonebooklinkedlist\phonebook.h
+
+1706607083 c:\users\chrys sean sevilla\documents\codeblocks\phonebooklinkedlist\common.h
+	<stdio.h>
+	<stdlib.h>
+
+1707042437 source:c:\users\chrys sean sevilla\documents\codeblocks\phonebooklinkedlist\common.c
+	"common.h"
+	"phonebook.h"
+
+1707042372 source:c:\users\chrys sean sevilla\documents\codeblocks\phonebooklinkedlist\delete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"phonebook.h"
+	"common.h"
+
+1707038583 source:c:\users\chrys sean sevilla\documents\codeblocks\phonebooklinkedlist\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	"phonebook.h"
+	"common.h"
+
+1707038221 source:c:\users\chrys sean sevilla\documents\codeblocks\phonebooklinkedlist\append.c
+	<stdio.h>
+	<stdlib.h>
+	"phonebook.h"
+	"common.h"
+
+1707039088 source:c:\users\chrys sean sevilla\documents\codeblocks\phonebooklinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"phonebook.h"
+
+1707040339 source:c:\users\chrys sean sevilla\documents\codeblocks\phonebooklinkedlist\browse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+	"common.h"
+
