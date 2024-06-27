@@ -1,7 +1,7 @@
 /*
 ============================================================================
 FILE        : balancing.c
-AUTHOR      : Chrys Sean Sevilla
+AUTHOR      : 
 DESCRIPTION : Balances tree every insert
 COPYRIGHT   : 25 March 2024
 REVISION HISTORY

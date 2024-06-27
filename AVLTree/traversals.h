@@ -1,7 +1,7 @@
 /*
 ============================================================================
 FILE        : traversals.h
-AUTHOR      : Cyril John Christian Calo
+AUTHOR      : 
 DESCRIPTION : Function Prototypes for traversals
 COPYRIGHT   : 25 March 2024
 REVISION HISTORY

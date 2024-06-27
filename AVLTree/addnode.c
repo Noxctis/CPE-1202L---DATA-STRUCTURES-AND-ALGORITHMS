@@ -1,7 +1,7 @@
 /*
 ============================================================================
 FILE        : addnode.c
-AUTHOR      : Sid Andre Bordario
+AUTHOR      : 
 DESCRIPTION : Adds node to tree
 COPYRIGHT   : 25 March 2024
 REVISION HISTORY

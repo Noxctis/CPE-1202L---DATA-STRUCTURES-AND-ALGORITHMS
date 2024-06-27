@@ -1,7 +1,7 @@
 /*
 ============================================================================
 FILE        : balacing.h
-AUTHOR      : Chrys Sean Sevilla
+AUTHOR      : 
 DESCRIPTION : Function Prototypes for balancing
 COPYRIGHT   : 25 March 2024
 REVISION HISTORY

@@ -1,7 +1,7 @@
 /*
 ============================================================================
 FILE        : delete.c
-AUTHOR      : Sid Andre Bordario
+AUTHOR      : 
 DESCRIPTION : Deletes the node and balances if imbalanced.
 COPYRIGHT   : 25 March 2024
 REVISION HISTORY

@@ -1,7 +1,7 @@
 /*
 ============================================================================
 FILE        : display.c
-AUTHOR      : Chrys Sean Sevilla
+AUTHOR      : 
 DESCRIPTION : Display tree
 COPYRIGHT   : 25 March 2024
 REVISION HISTORY
@@ -18,6 +18,7 @@ author         description of the change
 author         description of the change
 ============================================================================
 */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "addnode.h"

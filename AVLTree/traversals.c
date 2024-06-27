@@ -1,7 +1,7 @@
 /*
 ============================================================================
 FILE        : traversals.c
-AUTHOR      : Cyril John Christian Calo
+AUTHOR      : 
 DESCRIPTION : Traverse the tree
 COPYRIGHT   : 25 March 2024
 REVISION HISTORY

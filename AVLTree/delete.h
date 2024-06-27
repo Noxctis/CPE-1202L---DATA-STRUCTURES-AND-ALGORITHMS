@@ -1,7 +1,7 @@
 /*
 ============================================================================
 FILE        : delete.h
-AUTHOR      : Sid Andre Bordario
+AUTHOR      : 
 DESCRIPTION : Function Prototypes for delete
 COPYRIGHT   : 25 March 2024
 REVISION HISTORY

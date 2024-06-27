@@ -1,7 +1,7 @@
 /*
 ============================================================================
 FILE        : addnode.h
-AUTHOR      : Sid Andre Bordario
+AUTHOR      : 
 DESCRIPTION : Function Prototypes for addnode
 COPYRIGHT   : 25 March 2024
 REVISION HISTORY

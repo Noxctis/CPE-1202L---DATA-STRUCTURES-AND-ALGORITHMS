@@ -1,7 +1,7 @@
 /*
 ============================================================================
 FILE        : search.h
-AUTHOR      : Cristoffer Roger Requirme
+AUTHOR      : 
 DESCRIPTION : Function Prototypes for search
 COPYRIGHT   : 25 March 2024
 REVISION HISTORY

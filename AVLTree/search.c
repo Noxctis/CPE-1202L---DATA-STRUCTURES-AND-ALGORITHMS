@@ -1,7 +1,7 @@
 /*
 ============================================================================
 FILE        : search.c
-AUTHOR      : Cristoffer Roger Requirme
+AUTHOR      : 
 DESCRIPTION : Search the tree
 COPYRIGHT   : 25 March 2024
 REVISION HISTORY

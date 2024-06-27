@@ -2,9 +2,6 @@
 ============================================================================
 FILE        : main.c
 AUTHOR      : Chrys Sean Sevilla
-                Cristoffer Roger Requirme
-                Cyril John Christian Calo
-                Sid Andre Bordario
 DESCRIPTION : Input/Output
 COPYRIGHT   : 25 March 2024
 REVISION HISTORY
