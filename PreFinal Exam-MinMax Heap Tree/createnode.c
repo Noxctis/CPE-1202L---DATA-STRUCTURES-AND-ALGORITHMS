@@ -7,6 +7,10 @@
 // Function to create a new node
 struct Node* createNode(char word[]) {
     struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
+    if (newNode == NULL) {
+        printf("Memory allocation failed\n");
+        return;
+    }
     strcpy(newNode->word, word);
     newNode->weight = calculateWeight(word);
     newNode->left = newNode->right = NULL;
